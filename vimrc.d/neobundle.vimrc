@@ -56,7 +56,7 @@ call neobundle#begin(expand('~/.vim/bundle/')) " required by NeoBundleList
 	NeoBundle 'Shougo/neosnippet-snippets'
 	
 	" Task management
-    NeoBundle 'farseer90718/vim-taskwarrior'
+    " NeoBundle 'farseer90718/vim-taskwarrior'
     
     " Repeat
     "NeoBundle "tpope/vim-repeat" " enhanced command for dot '.'
