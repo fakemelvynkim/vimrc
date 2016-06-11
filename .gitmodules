@@ -1,0 +1,3 @@
+[submodule "res/powerline-fonts"]
+	path = res/powerline-fonts
+	url = https://github.com/melvynkim/fonts
