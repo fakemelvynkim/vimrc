@@ -11,3 +11,6 @@ let g:ctrlp_custom_ignore = {
 " Use custom file listing command
 let g:ctrlp_user_command = 'find %s -type f'        " MacOSX/Linux
 "let g:ctrlp_user_command = 'dir %s /-n /b /s /a-d'  " Windows
+
+"" keyboard shortcut
+let g:ctrlp_map = '<c-p>'

@@ -102,9 +102,10 @@ noremap <Down> <NOP>
 noremap <Left> <NOP>
 noremap <Right> <NOP>
 
-" set mapleader to ","
-let mapleader=","
-let g:mapleader=","
+" set mapleader
+" by default, this is set to '\'
+" let mapleader="\"
+" let g:mapleader="\"
 
 "replace the current word in all opened buffers
 map <leader>r :call Replace()<CR>

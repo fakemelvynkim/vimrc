@@ -10,5 +10,6 @@ let g:airline#extensions#tabline#left_sep = ' '
 let g:airline#extensions#tabline#left_alt_sep = '|'
 
 " set theme
-let g:airline_theme='bubblegum'
-"let g:airline_theme='base16' " very simple, recommended too!
+" Could not resolve airline theme "bubblegum". Themes have been migrated to github.com/vim-airline/vim-airline-themes."
+let g:airline_theme='molokai'
+" let g:airline_theme='base16' " very simple, recommended too!
